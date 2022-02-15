@@ -15,7 +15,7 @@
 👤 **Teshome Kurabachew**
 
 - GitHub: [@githubhandle](https://github.com/TesheMaximillan)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- Twitter: [@twitterhandle](https://twitter.com/TesheKura)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/teshome-kurabachew-aa8067180/)
 
 ## 🤝 Contributing
